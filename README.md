@@ -2,10 +2,10 @@
 by Anthony Hernandez
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about eploring a topic of you choosing hence the reason it's called the "Freedom Porject", giving you te freedom to choose. The purpose of this blog is to document my process through my project. My teacher has given us a list of tools to use and i've chosen the tool "Google app script". I will be designing a program to clean up ones gmail inbox, I chose this because my inbox is messy and a program like this would be very helpful. 
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a automatic inbox cleaner for my gmail. This blog will be the walk through of my process of independently studying my concept in order to make it come to fruition.
 
 ## Links
 
