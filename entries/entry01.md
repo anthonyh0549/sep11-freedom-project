@@ -13,6 +13,7 @@ So the variable "threads" when used searches the Gmail app-GmailApp.search- for 
 The engineering design process states you first ask a question of identify a problem, here it is my gmail being unorganized and I ask "How can I fix that?". Now I have to work to understand how I can utilize "Google app script" to create a way to clean my inbox. Since "Google app script" works with my account there are already establish functions I can use to do this, I plan to split my concept into 3 catagroies. Find what I want to be cleaned or deleted, How am I going to delete it, and when I want it deleted. 
 
 Sources
+
 https://developers.google.com/apps-script/reference/gmail/gmail-app?hl=en#search(String)
 
 https://developers.google.com/apps-script/overview
