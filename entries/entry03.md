@@ -13,7 +13,7 @@ The tool i'm using, <a href="https://developers.google.com/apps-script">Google A
 
 The Engineering Design Process (EDP) is a <b>7-step process of planning, designing, creating, testing and than improving on</b>. In a sense the process doesn't end as there is always ways to improve upon your design. I'm cuurently at stage 4, planning on a acessble solution for myself and others to use to keep control and organize their Gmail apps. 
 
-To start I have to understand the problem, hard to manage Gmail inboxes. First I have to understand why inboxes are hard to manage, after some <a href="https://hbr.org/2012/02/stop-email-overload-1">research</a> to see what other companies are doing or saying to combat inbox overload. The common trend is for people to try and go through or organize new emails early in the morninng or set time aside to do this. Programs such a <a href="https://mailstrom.co/MailStorm">MailStrom</a> 
+To start I have to understand the problem, hard to manage Gmail inboxes. First I have to understand why inboxes are hard to manage, after some <a href="https://hbr.org/2012/02/stop-email-overload-1">research</a> to see what other companies are doing or saying to combat inbox overload. The common trend is for people to try and go through or organize new emails early in the morninng or set time aside to do this. As well as organizing emails in catagroies to make sorting through your inbox easier. Programs such a <a href="https://mailstrom.co/MailStorm">MailStrom</a> does this, catagorizing or groups emails and identifies bundles of related mail and makes it easy for you to act on them as a group.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
