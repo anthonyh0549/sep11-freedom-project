@@ -10,12 +10,14 @@ Currently, I'm finializing my project in terms of planning. As for practice I've
 The tool i'm using, <a href="https://developers.google.com/apps-script">Google App Script</a>, makes use of Google apps such as Docs, Drive and Gmail and uses a modern JS platform to edit and boost such apps efficiency. There were plentiful of <a href="https://www.youtube.com/watch?v=Nd3DV_heK2Q">YouTube tutorials</a> on the basics functions of the Google App Script.
 
 ## Engineering Design Process (EDP)
+The Engineering Design Process (EDP) is a <b>7-step process of planning, designing, creating, testing, and then improving on</b>. In a sense, the process doesn't end as there are always ways to improve upon your design. I'm currently at stage 4, planning on an accessible solution for myself and others to use to keep control and organize their Gmail apps.
 
-The Engineering Design Process (EDP) is a <b>7-step process of planning, designing, creating, testing and than improving on</b>. In a sense the process doesn't end as there is always ways to improve upon your design. I'm cuurently at stage 4, planning on a acessble solution for myself and others to use to keep control and organize their Gmail apps. 
+To start I have to understand the problem, hard to manage Gmail inboxes. First I have to understand why inboxes are hard to manage, after some <a href="https://hbr.org/2012/02/stop-email-overload-1">research</a> to see what other companies are doing or saying to combat inbox overload. The common trend is for people to try and go through or organize new emails early in the morning or set time aside to do this. As well as organizing emails in categories to make sorting through your inbox easier. Programs such as <a href="https://mailstrom.co/MailStorm">MailStrom</a> does this, categorizing or groups emails and identifies bundles of related mail, and make it easy for you to act on them as a group. Understanding this is important because you wanna clear emails in mass to prevent overflow.
+At the same time, I also don't want to fully automate the cleanup as I wanna the user to feel in full control of what gets purged and prevent any unintentional loss of important emails. The most important part is creating a program that allows the user to regain control over their inbox.
 
-To start I have to understand the problem, hard to manage Gmail inboxes. First I have to understand why inboxes are hard to manage, after some <a href="https://hbr.org/2012/02/stop-email-overload-1">research</a> to see what other companies are doing or saying to combat inbox overload. The common trend is for people to try and go through or organize new emails early in the morninng or set time aside to do this. As well as organizing emails in catagroies to make sorting through your inbox easier. Programs such a <a href="https://mailstrom.co/MailStorm">MailStrom</a> does this, catagorizing or groups emails and identifies bundles of related mail and makes it easy for you to act on them as a group. Understanding this is important because you wanna clear emails in mass to prevent overflow. 
 
-At the same time I also don't want to fully automate the cleanup in the as I wanna the user to feel in full control of what gets purged and prevent any unintentional loss of important emails. The most important part is creating a program that allows the user to regain control over their inbox. 
+
+ 
 
 ## Knowledge
 
