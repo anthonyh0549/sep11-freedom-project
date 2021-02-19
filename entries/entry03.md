@@ -21,11 +21,14 @@ At the same time, I also don't want to fully automate the cleanup as I wanna the
 
 ## Knowledge
 
-The <b>Tool</b> I'm using is <b><a href="https://developers.google.com/apps-script">Google App Scripts</a></b> which a free extension for Google apps that <b>anyone</b> can use to automate apps such as Gmail, Docs, and Sheets. This is done through allowing access and linking them on the popular language JavsScript on a cloud based platform. 
+The Tool I'm using is <b><a href="https://developers.google.com/apps-script">Google App Scripts</a></b> which a free extension for Google apps that anyone can use to automate apps such as Gmail, Docs, and Sheets. This is done by allowing access and linking them to the popular language JavsScript on a cloud-based platform.
 
-My project is based off organization, though the idea not unique, is very useful. I've noticed that many established programs that follow the similar concept are over-complicated, don't stick to what most people are looking for, and most impotantly are costly for a purchase that may or may not work in the way the buyer intends. 
+My project is based on organization, though the idea not unique, is very useful. I've noticed that many established programs that follow a similar concept are over-complicated, don't stick to what most people are looking for, and most importantly are costly for a purchase that may or may not work in the way the buyer intends.
 
-Part of the learning process is messing around with the langauge, reading up on what you can do, and watching many videos on what to start on to grasp a solid understanding. A great addition to the learning of the tool is that itself offers small tutoirlas and refreneces to different defined "Functions". Here is a snippet of code from a tutoiral the tool offers
+Part of the learning process is messing around with the language, reading up on what you can do, and watching many videos on what to start on to grasp a solid understanding. A great addition to the learning of the tool is that itself offers small tutorials and references to different defined "Functions". Here is a snippet of code from a tutorial the tool offers
+
+
+
 
  <tt><b>GmailApp.sendEmail(email, subject, body);</tt></b>
  <br>This opens the Gmail app and readys to send a email. 
