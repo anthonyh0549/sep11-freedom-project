@@ -26,7 +26,13 @@ My project is based off organization, though the idea not unique, is very useful
 Part of the learning process is messing around with the langauge, reading up on what you can do, and watching many videos on what to start on to grasp a solid understanding. A great addition to the learning of the tool is that itself offers small tutoirlas and refreneces to different defined "Functions". Here is a snippet of code from a tutoiral the tool offers
 
  <tt><b>GmailApp.sendEmail(email, subject, body);</tt></b>
+ <br>This opens the Gmail app and readys to send a email. 
+<br>
+<br>
+<tt><b>var doc = DocumentApp.create('Hello, world!');</tt></b> 
+<br>This opens the Document app <b>Google Docs</b> and writes the following prhase "Hello World". 
 
+This is important as it highlights the interconnectedness bewteen the apps and the tool. Using defined variables to call the apps to commit certain actions such as sending a email or creating a docs. 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
