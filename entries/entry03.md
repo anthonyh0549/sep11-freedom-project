@@ -33,6 +33,14 @@ Part of the learning process is messing around with the langauge, reading up on 
 <br>This opens the Document app <b>Google Docs</b> and writes the following prhase "Hello World". 
 
 This is important as it highlights the interconnectedness bewteen the apps and the tool. Using defined variables to call the apps to commit certain actions such as sending a email or creating a docs. 
+
+## Skills
+
+Skills that I have to use is <b>consideration</b> and <b>Reasoning.</b>
+
+Using the skill of consideration to find ways to work effectively and understand what's being told to me by the videos and the concepts that are being told. Using personal experince which ties to Reasoning I can understand what I have trouble with and what others main concerns are when concerning with inbox organization.  Important things to me when using a new app is being easily accessible and giving the user control, as this is their inbox and when automating such things it's imporatnt that it is fine tuned to what each user would want. 
+The important part is understanding the user and understanding the common problems. Since this is a tool for a personal item, your gmail inbox, it is important that I don't develop the program in a way that assumes what the user wants. 
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
