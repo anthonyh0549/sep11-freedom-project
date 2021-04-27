@@ -23,7 +23,7 @@ My project is based on organization, though the idea not unique, is very useful.
 Part of the learning process is messing around with the language, reading up on what you can do, and watching many videos on what to start on to grasp a solid understanding. A great addition to the learning of the tool is that there are plenty of sources to pull from.  Here is some code I used to try out different things and make use of the different google apps. Gauging an understanding of how to manipulate the apps. 
 
 
-function DocumentApp() 
+//function DocumentApp() 
 
 
 The important part of this code snippet is the "DocumentApp", essentially what it is doing is selecting the document app, google docs. To which I make a function after I can add what I need to add to tell the system what to do after selecting the document app whether it should be adding or writing. 
