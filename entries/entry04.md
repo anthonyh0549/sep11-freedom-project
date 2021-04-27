@@ -45,6 +45,7 @@ var slide = SlideApp.openByUrl('URL')
 Skills that I have to use is <b>time management</b> and <b>analysis.</b>
 
 Using the skill of time management as I have a lot to do outside of my code class, such as the real estate program, Scholars program, and other things. Developing that time management skill helps me balance all these things. Keeping myself healthy both mentally and physically. Developing my skills in analysis helps me take in information effectively. Seeing the bigger picture or in this case, the end product helps me understand the steps needed to reach the end product. Combining these two skills promotes efficiency and effectiveness.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
