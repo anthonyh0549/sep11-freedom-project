@@ -28,17 +28,17 @@ Part of the learning process is messing around with the language, reading up on 
 
 The important part of this code snippet is the "DocumentApp", essentially what it is doing is selecting the document app, google docs. To which I make a function after I can add what I need to add to tell the system what to do after selecting the document app whether it should be adding or writing. 
 
-var doc = DocumentApp.openById('ID')
+//var doc = DocumentApp.openById('ID')
  
 This helps the system understand what doc is being selected. One important note about google is that it is pretty organized so everything has some form of ID to help the system know what it is choosing. 
 
-logger.log(doc.getBody().appendParagraph('text'))
+//logger.log(doc.getBody().appendParagraph('text'))
 
 This goes in the body of the document and goes to the end of the paragraph, ".appendParagraph" and depending on what you put adds that. This is just a small code to gain an understanding of how to access and go through the Google apps. 
 
-function SlideApp() 
-var slide = SlideApp.openById('ID') or you can use 
-var slide = SlideApp.openByUrl('URL')
+//function SlideApp() 
+//var slide = SlideApp.openById('ID') or you can use 
+//var slide = SlideApp.openByUrl('URL')
 
  ## Skills
 
