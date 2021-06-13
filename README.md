@@ -12,9 +12,6 @@ For my project, I am making a automatic inbox cleaner for my gmail. This blog wi
  
  <a href="https://docs.google.com/presentation/d/1yxmY84M2pffGig4znMlKLy55g6AjsopIICx0M9493XE/edit?usp=sharing">Presentation</a>
 
-## Implications
-X
-
 ---
 
 * [Blog Entry 1](entries/entry01.md)
