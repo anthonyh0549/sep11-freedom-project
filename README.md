@@ -8,10 +8,7 @@ The "Freedom Project" for SEP11 is all about eploring a topic of you choosing he
 For my project, I am making a automatic inbox cleaner for my gmail. This blog will be the walk through of my process of independently studying my concept in order to make it come to fruition.
 
 ## Links
-
-< a href = "https://script.google.com/d/16dbgsMcMAtHd2LAMXDvCer-lu4h728tdSdvWhhx4w3x5JPr2x9twTd16/edit?usp=sharing">Product</a>
-
-Presentation
+ <a href="https://script.google.com/d/16dbgsMcMAtHd2LAMXDvCer-lu4h728tdSdvWhhx4w3x5JPr2x9twTd16/edit?usp=sharin">Product</a>
 
 ## Implications
 X
